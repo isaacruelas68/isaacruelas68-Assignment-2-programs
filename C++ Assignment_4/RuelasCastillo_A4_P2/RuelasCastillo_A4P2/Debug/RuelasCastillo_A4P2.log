@@ -1,0 +1,4 @@
+﻿  World.cpp
+C:\Users\Isaac's PC\source\repos\RuelasCastillo_A4P2\RuelasCastillo_A4P2\World.cpp(38,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Isaac's PC\source\repos\RuelasCastillo_A4P2\RuelasCastillo_A4P2\World.cpp(26,15): warning C4101:  'rands': unreferenced local variable
+  RuelasCastillo_A4P2.vcxproj -> C:\Users\Isaac's PC\source\repos\RuelasCastillo_A4P2\Debug\RuelasCastillo_A4P2.exe
